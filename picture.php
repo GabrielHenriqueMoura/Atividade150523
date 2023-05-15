@@ -51,7 +51,7 @@
     <h1>IFMS - Instituto Federal de Mato Grosso do Sul</h1>
 
     <div style="text-align: center;">
-    <img src="./arquivos/imagens/IFMSLocation.jpg" height="400" width="600" alt="...">
+    <img src="./arquivos/imagens/IFMSLocation.jpg" height="400" width="600" alt="Grupo de pessoas em frente ao IFMS">
 </div>
 
     <div>
@@ -78,8 +78,7 @@ ChatGPT
 lios:</strong> o IFMS oferece diversos tipos de auxílios financeiros para seus estudantes, como auxílio transporte, auxílio alimentação, auxílio moradia, entre outros. Além disso, há também a possibilidade de ingressar em programas de bolsas de estudo, como o Programa de Bolsa Permanência (PBP) e o Programa Institucional de Bolsas de Iniciação Científica (PIBIC).</li>
 </ul>
 
-less
-Copy code
+
     <h2>Unidades</h2>
     <p>O IFMS possui unidades em diversos municípios de Mato Grosso do Sul. Atualmente, são 10 campi em funcionamento:</p>
     <ul>
@@ -110,7 +109,7 @@ Copy code
 
     
     <div style="text-align: center;">
-    <img src="./arquivos/imagens/IFMSLocation2.jpg" height="400" width="600" alt="...">
+    <img src="./arquivos/imagens/IFMSLocation2.jpg" height="400" width="600" alt="Imagem de IFMS">
 </div>
 </div>
 </body>
