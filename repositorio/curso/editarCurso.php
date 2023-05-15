@@ -12,7 +12,7 @@ $campus = $_POST['campus'];
 $area = $_POST['area'];
 
 try{
-    $sql = "update curso set nomeCurso='$nome', notaCurso='$notat', idArea='$area', idCampus='$campus' where idCurso=".$idCurso;
+    $sql = "update curso set nomeCurso='$nome', notaCurso='$nota', idArea='$area', idCampus='$campus' where idCurso=".$idCurso;
     $conexao->exec($sql);
     echo "Editado com sucesso !!!";
 }catch(PDOException $e){

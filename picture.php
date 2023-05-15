@@ -73,9 +73,7 @@
                 Grande, Corumbá, Coxim, Dourados, Jardim, Naviraí, Nova Andradina, Ponta Porã, Três Lagoas e Vicentina.</li>
 <li><strong>Acesso:</strong> para ingressar no IFMS, o candidato deve participar do processo seletivo anual,
                 que ocorre por meio de um sistema de seleção unificado (Sisu) ou do vestibular próprio da instituição.</li>
-            <li><strong>Bolsas e auxí
-ChatGPT
-lios:</strong> o IFMS oferece diversos tipos de auxílios financeiros para seus estudantes, como auxílio transporte, auxílio alimentação, auxílio moradia, entre outros. Além disso, há também a possibilidade de ingressar em programas de bolsas de estudo, como o Programa de Bolsa Permanência (PBP) e o Programa Institucional de Bolsas de Iniciação Científica (PIBIC).</li>
+            <li><strong>Bolsas e auxílios:</strong> o IFMS oferece diversos tipos de auxílios financeiros para seus estudantes, como auxílio transporte, auxílio alimentação, auxílio moradia, entre outros. Além disso, há também a possibilidade de ingressar em programas de bolsas de estudo, como o Programa de Bolsa Permanência (PBP) e o Programa Institucional de Bolsas de Iniciação Científica (PIBIC).</li>
 </ul>
 
 
